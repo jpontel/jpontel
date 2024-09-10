@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Rodrigo Pontel</h1>
-<h3 align="center">I'm a Software developer with a deep passion for the design, creation, and maintenance of both mobile and web systems, with a strong focus on natural language processing (NLP) and machine learning.</h3>
+<h3 align="left">I'm a Software developer with a deep passion for the design, creation, and maintenance of both mobile and web systems, with a strong focus on natural language processing (NLP) and machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpontel&label=Profile%20views&color=0e75b6&style=flat" alt="jpontel" /> </p>
 
@@ -35,4 +35,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpontel&show_icons=true&locale=en&layout=compact" alt="jpontel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jpontel&show_icons=true&locale=en" alt="jpontel" /></p>
+
 
