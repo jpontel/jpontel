@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm José Rodrigo Pontel</h1>
+<h1 align="center">Hi 😎🤘, I'm José Rodrigo Pontel</h1>
 <h3 align="left">I'm a Software developer with a deep passion for the design, creation, and maintenance of both mobile and web systems, with a strong focus on natural language processing (NLP) and machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpontel&label=Profile%20views&color=0e75b6&style=flat" alt="jpontel" /> </p>
