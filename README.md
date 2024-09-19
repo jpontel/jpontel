@@ -37,12 +37,6 @@
 
 ### 🛠 Tools & Frameworks
 - [React](https://reactjs.org/) | [TensorFlow](https://www.tensorflow.org/) | [Flask](https://flask.palletsprojects.com/) | [Tailwind CSS](https://tailwindcss.com/)
-  
-## 📊 GitHub Stats
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpontel&show_icons=true&locale=en&layout=compact" alt="jpontel" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpontel&show_icons=true&locale=en" alt="jpontel" />
-</p>
 
 ---
 
