@@ -19,6 +19,33 @@
 
 - 📫 How to reach me **jpontel2002@gmail.com**
 
+---
+
+## 🔥 My Projects
+
+### 🧠 Machine Learning Projects
+- [Forest Cover Type Prediction](https://github.com/jpontel/forest-cover-type) - Using Keras and TensorFlow to classify forest cover types.
+- [NLP Financial Insights](https://github.com/jpontel/nlp-financial) - Analyzing user spending habits with NLP.
+
+### 💻 React Projects
+- [E-Commerce Admin Dashboard](https://github.com/jpontel/ecommerce-admin) - An admin dashboard for managing e-commerce products.
+- [React Finance Manager](https://github.com/jpontel/finance-manager) - A financial manager app built with React and styled-components.
+
+### 📱 Mobile Development Projects
+- [Vegan Recipe App](https://github.com/jpontel/vegan-recipe) - A mobile app to browse and share vegan recipes (Swift).
+- [Workout Tracker](https://github.com/jpontel/workout-tracker) - A fitness tracking app for iOS.
+
+### 🛠 Tools & Frameworks
+- [React](https://reactjs.org/) | [TensorFlow](https://www.tensorflow.org/) | [Flask](https://flask.palletsprojects.com/) | [Tailwind CSS](https://tailwindcss.com/)
+  
+## 📊 GitHub Stats
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpontel&show_icons=true&locale=en&layout=compact" alt="jpontel" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpontel&show_icons=true&locale=en" alt="jpontel" />
+</p>
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pontel_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pontel_01" height="30" width="40" /></a>
