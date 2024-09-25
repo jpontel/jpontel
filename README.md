@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpontel&label=Profile%20views&color=0e75b6&style=flat" alt="jpontel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jpontel" alt="jpontel" /></a> </p>
+<p align="left" style="display: inline-flex; gap: 8px;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=jpontel" alt="jpontel" />
+    </a>
+</p>
 
 - 🔭 I’m currently working on **Fiocruz Paraná Machine Learning**
 
