@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **NLP and Machine Learning Projects**
 
-- 👨‍💻 All of my projects are available at [https://jpontel.netlify.app/](https://jpontel.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://pontel.netlify.app/](https://pontel.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@jpontel2002_15904](https://medium.com/@jpontel2002_15904)
 
