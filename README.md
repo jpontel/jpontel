@@ -19,9 +19,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@jpontel2002_15904](https://medium.com/@jpontel2002_15904)
 
-- 💬 Ask me about **React, Machine Learning, NLP, Swift, JS, TS, Python**
+- 💬 Ask me about **React, Angular, Natural Language Processing(NLP), JS, TS, Python**
 
-- 📫 How to reach me **jpontel2002@gmail.com**
+- 📫 How to reach me **jpontel2002@icloud.com**
 
 ---
 
