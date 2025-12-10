@@ -9,15 +9,9 @@
     </a>
 </p>
 
-- 🔭 I’m currently working on **Fiocruz Paraná Machine Learning**
-
-- 🌱 I’m currently learning **AWS, LLaMA-2, GPT, NLTK, BERT**
+- 🌱 I’m currently learning **NextJS, Node, Elasticsearch
 
 - 👯 I’m looking to collaborate on **NLP and Machine Learning Projects**
-
-- 👨‍💻 All of my projects are available at [https://pontel.netlify.app/](https://pontel.netlify.app/)
-
-- 📝 I regularly write articles on [https://medium.com/@jpontel2002_15904](https://medium.com/@jpontel2002_15904)
 
 - 💬 Ask me about **React, Angular, Natural Language Processing(NLP), JS, TS, Python**
 
@@ -35,9 +29,6 @@
 - [E-Commerce Admin Dashboard](https://github.com/jpontel/ecommerce-admin) - An admin dashboard for managing e-commerce products.
 - [React Finance Manager](https://github.com/jpontel/finance-manager) - A financial manager app built with React and styled-components.
 
-### 📱 Mobile Development Projects
-- [Vegan Recipe App](https://github.com/jpontel/vegan-recipe) - A mobile app to browse and share vegan recipes (Swift).
-- [Workout Tracker](https://github.com/jpontel/workout-tracker) - A fitness tracking app for iOS.
 
 ### 🛠 Tools & Frameworks
 - [React](https://reactjs.org/) | [TensorFlow](https://www.tensorflow.org/) | [Flask](https://flask.palletsprojects.com/) | [Tailwind CSS](https://tailwindcss.com/)
@@ -50,7 +41,6 @@
 <a href="https://linkedin.com/in/josé rodrigo pontel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé rodrigo pontel" height="30" width="40" /></a>
 <a href="https://kaggle.com/pontel_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pontel_01" height="30" width="40" /></a>
 <a href="https://instagram.com/pontel_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pontel_01" height="30" width="40" /></a>
-<a href="https://www.behance.net/josé rodrigo pontel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="josé rodrigo pontel" height="30" width="40" /></a>
 <a href="https://medium.com/@jpontel2002_15904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jpontel2002_15904" height="30" width="40" /></a>
 </p>
 
